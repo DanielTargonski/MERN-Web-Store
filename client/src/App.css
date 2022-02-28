@@ -1,0 +1,29 @@
+main {
+  margin: 20px;
+}
+.page-title {
+  display: block !important;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 10px;
+}
+.center {
+  text-align: center !important;
+}
+.product-card {
+  margin-bottom: 15px !important;
+}
+
+.product-img {
+  height: 175px !important;
+  width: auto !important;
+}
+
+.flex-column {
+  flex-direction: column !important;
+}
+
+.my-5 {
+  margin-top: 15px !important;
+  margin-bottom: 15px !important;
+}
